@@ -1,0 +1,551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\entities\\concrete\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:entities\\concrete\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\entities\\concrete\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:entities\\concrete\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\entities\\concrete\\models\\tasinmaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:entities\\concrete\\models\\tasinmaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\entities\\concrete\\models\\neigborhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:entities\\concrete\\models\\neigborhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\entities\\concrete\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:entities\\concrete\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\entities\\concrete\\dto\u0027s\\userforregiserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:entities\\concrete\\dto\u0027s\\userforregiserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\entities\\concrete\\dto\u0027s\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:entities\\concrete\\dto\u0027s\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\dataaccess\\conrete\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:dataaccess\\conrete\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\core\\jwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:core\\jwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\tasinmazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\tasinmazcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\neigborhoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\neigborhoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\frombodyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\frombodyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\districtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\controllers\\concrete\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:controllers\\concrete\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\conrete\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\conrete\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\conrete\\services\\tasinmazservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\conrete\\services\\tasinmazservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\conrete\\services\\neigborhoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\conrete\\services\\neigborhoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\conrete\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\conrete\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\conrete\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\conrete\\services\\districtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\conrete\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\conrete\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\conrete\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\conrete\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\abstract\\interfaces\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\abstract\\interfaces\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\abstract\\interfaces\\tasinmazinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\abstract\\interfaces\\tasinmazinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\abstract\\interfaces\\neigborhoodinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\abstract\\interfaces\\neigborhoodinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\abstract\\interfaces\\loginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\abstract\\interfaces\\loginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\abstract\\interfaces\\districtinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\abstract\\interfaces\\districtinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\abstract\\interfaces\\cityinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\abstract\\interfaces\\cityinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\business\\abstract\\interfaces\\authinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:business\\abstract\\interfaces\\authinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|d:\\c# \u00F6devleri\\tas\u0130nmaz\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEC8D8A5-D966-4CC7-8D1D-B0786E3F2238}|TAS\u0130NMAZ.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "log.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\log.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Models\\log.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\log.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Models\\log.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:36:22.716Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "logController.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\logController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\logController.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\logController.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\logController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:37:46.707Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAkwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:07:45.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Models\\City.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\City.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T09:48:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\DTO\u0027s\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\DTO\u0027s\\UserForLoginDto.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\DTO\u0027s\\UserForLoginDto.cs",
+              "RelativeToolTip": "Entities\\Concrete\\DTO\u0027s\\UserForLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:09:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Models\\User.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\User.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:42:24.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\DataAccess\\Conrete\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Conrete\\AppDbContext.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\DataAccess\\Conrete\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Conrete\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:41:44.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserForRegiserDto.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\DTO\u0027s\\UserForRegiserDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\DTO\u0027s\\UserForRegiserDto.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\DTO\u0027s\\UserForRegiserDto.cs",
+              "RelativeToolTip": "Entities\\Concrete\\DTO\u0027s\\UserForRegiserDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:10:29.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Neigborhood.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\Neigborhood.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Models\\Neigborhood.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\Neigborhood.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Models\\Neigborhood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:59:45.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tasinmaz.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\tasinmaz.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Models\\tasinmaz.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Entities\\Concrete\\Models\\tasinmaz.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Models\\tasinmaz.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T06:27:27.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtExtension.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Core\\JwtExtension.cs",
+              "RelativeDocumentMoniker": "Core\\JwtExtension.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Core\\JwtExtension.cs",
+              "RelativeToolTip": "Core\\JwtExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:33:05.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\UserController.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\UserController.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:00:10.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "tasinmazController.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\tasinmazController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\tasinmazController.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\tasinmazController.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\tasinmazController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T08:19:18.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NeigborhoodController.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\NeigborhoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\NeigborhoodController.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\NeigborhoodController.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\NeigborhoodController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:00:05.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrombodyAttribute.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\FrombodyAttribute.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\FrombodyAttribute.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\FrombodyAttribute.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\FrombodyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:00:01.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DistrictController.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\DistrictController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\DistrictController.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\DistrictController.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\DistrictController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:43:33.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\CityController.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\CityController.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\CityController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:43:29.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Concrete\\AuthController.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Controllers\\Concrete\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\Concrete\\AuthController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAuwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:13:32.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Business\\Conrete\\Services\\UserService.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\UserService.cs",
+              "RelativeToolTip": "Business\\Conrete\\Services\\UserService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:58:32.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "tasinmazService.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\tasinmazService.cs",
+              "RelativeDocumentMoniker": "Business\\Conrete\\Services\\tasinmazService.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\tasinmazService.cs",
+              "RelativeToolTip": "Business\\Conrete\\Services\\tasinmazService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:19:03.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NeigborhoodService.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\NeigborhoodService.cs",
+              "RelativeDocumentMoniker": "Business\\Conrete\\Services\\NeigborhoodService.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\NeigborhoodService.cs",
+              "RelativeToolTip": "Business\\Conrete\\Services\\NeigborhoodService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:19:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "logService.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\logService.cs",
+              "RelativeDocumentMoniker": "Business\\Conrete\\Services\\logService.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\logService.cs",
+              "RelativeToolTip": "Business\\Conrete\\Services\\logService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:42:29.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DistrictService.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\DistrictService.cs",
+              "RelativeDocumentMoniker": "Business\\Conrete\\Services\\DistrictService.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\DistrictService.cs",
+              "RelativeToolTip": "Business\\Conrete\\Services\\DistrictService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:18:59.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "Business\\Conrete\\Services\\CityService.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\CityService.cs",
+              "RelativeToolTip": "Business\\Conrete\\Services\\CityService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T05:18:43.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Conrete\\Services\\AuthService.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Conrete\\Services\\AuthService.cs",
+              "RelativeToolTip": "Business\\Conrete\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:12:40.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\UserInterface.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Interfaces\\UserInterface.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\UserInterface.cs",
+              "RelativeToolTip": "Business\\Abstract\\Interfaces\\UserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:02:43.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "tasinmazInterface.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\tasinmazInterface.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Interfaces\\tasinmazInterface.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\tasinmazInterface.cs",
+              "RelativeToolTip": "Business\\Abstract\\Interfaces\\tasinmazInterface.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:45:04.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NeigborhoodInterface.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\NeigborhoodInterface.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Interfaces\\NeigborhoodInterface.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\NeigborhoodInterface.cs",
+              "RelativeToolTip": "Business\\Abstract\\Interfaces\\NeigborhoodInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:59:48.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "logInterface.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\logInterface.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Interfaces\\logInterface.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\logInterface.cs",
+              "RelativeToolTip": "Business\\Abstract\\Interfaces\\logInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:41:00.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DistrictInterface.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\DistrictInterface.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Interfaces\\DistrictInterface.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\DistrictInterface.cs",
+              "RelativeToolTip": "Business\\Abstract\\Interfaces\\DistrictInterface.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:32:51.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CityInterface.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\CityInterface.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Interfaces\\CityInterface.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\CityInterface.cs",
+              "RelativeToolTip": "Business\\Abstract\\Interfaces\\CityInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:32:48.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthInterface.cs",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\AuthInterface.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Interfaces\\AuthInterface.cs",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\Business\\Abstract\\Interfaces\\AuthInterface.cs",
+              "RelativeToolTip": "Business\\Abstract\\Interfaces\\AuthInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T21:17:27.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C# \u00D6devleri\\TAS\u0130NMAZ\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T21:52:40.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
